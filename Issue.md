@@ -1,4 +1,4 @@
-# Nagłówek 1 {#nag1}
+# Nagłówek 1 [#nag1]
 |Nagłówek 1|Nagłówek 2|Nagłówek 3|
 |:--------:|:--------:|:--------:|
 |a|b|c|
@@ -16,7 +16,7 @@ def siln(n):
 n=5
 print((siln(n)))
 ~~~
-### Nagłówek 2 {#nag2}
+### Nagłówek 2 (#nag2)
 
 [link do nagłówka 1](#nag1)[^1]. Oraz przypis do niego.
 
