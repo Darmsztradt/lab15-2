@@ -15,10 +15,12 @@ def siln(n):
 n=5
 print((siln(n)))
 ~~~
-## Nagłówek 2
+## Nagłówek 2 {#nag2}
 
-[link do nagłówka 1](#nag1)
+[link do nagłówka 1](#nag1)[^1]. Oraz przypis do niego.
 
+[^1]: Przypis do linka.
+[link do nagłówka 2](#nag2)
 - [ ] Wstać
 - [ ] Zjeść tosta
 - [ ] Pojść na zajęcia
