@@ -1,4 +1,4 @@
-# Nagłówek 1
+# Nagłówek 1 {#nag1}
 |Nagłówek 1|Nagłówek 2|Nagłówek 3|
 |:--------:|:--------:|:--------:|
 |a|b|c|
@@ -17,7 +17,7 @@ print((siln(n)))
 ~~~
 ## Nagłówek 2
 
-
+[link do nagłówka 1](#nag1)
 
 - [ ] Wstać
 - [ ] Zjeść tosta
