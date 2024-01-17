@@ -18,11 +18,11 @@ print((siln(n)))
 ~~~
 ## Nagłówek 2 
 
-[link do nagłówka 1](#nag1)[^1]. Oraz przypis do niego.
+[link do nagłówka 1](#Nagłówek1)[^1]. Oraz przypis do niego.
 
 [^1]: Przypis do linka.
 
-[link do nagłówka 2](#identyfikator2)
+[link do nagłówka 2](#Nagłówek2)
 
 - [ ] Wstać
 - [ ] Zjeść tosta
