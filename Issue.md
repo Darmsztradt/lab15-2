@@ -16,7 +16,7 @@ def siln(n):
 n=5
 print((siln(n)))
 ~~~
-### Nagłówek 2 [#nag2]
+### Nagłówek 2 {#nag2}
 
 [link do nagłówka 1](#nag1)[^1]. Oraz przypis do niego.
 
